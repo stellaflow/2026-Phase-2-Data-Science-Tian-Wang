@@ -7,3 +7,6 @@ MSA Phase 2 Data Science
 ## [Part 3](./Part3/)
 - [part3_submission.ipynb](./Part3/part3_submission.ipynb)
 - [IEEE Report_MSA Phase 2 Part 3.docx](./Part3/IEEE_Report_MSA%20Phase%202%20Part%203.docx)
+- [IEEE_Report.pdf](./Part3/IEEE_Report.pdf)
+
+  PDF version was late submission.
